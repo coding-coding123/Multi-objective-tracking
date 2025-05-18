@@ -1,5 +1,5 @@
 # Multi-objective-tracking
-This is project for lesson "Introduction of Artificial Intelligence".
+This is a project for lesson "Introduction of Artificial Intelligence".
 # task assignment:
 ## Coding: 
 ## Poster: 
